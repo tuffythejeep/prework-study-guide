@@ -8,7 +8,7 @@ Although building this webpage was part of my homework, I learned that I am real
 N/A
 
 ## Usage
-Each section included in my webpage contains notes about a certain topic I learned how to use, like: HTML, CSS, JavaScript, Git. All of these were progressively more challenging to learn, but I look forward to these being second nature, soon! 
+Each section included in my webpage contains notes about a certain topic I learned how to use, like: HTML, CSS, JavaScript, and Git. All of these were progressively more challenging to learn, but I look forward to these being second nature, soon! 
  
 If you open the DevTools console in Chrome, you will see JavaScript running, and I used console to ensure my code was running correctly.
 
